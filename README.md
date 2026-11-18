@@ -22,19 +22,13 @@ Backend service untuk aplikasi **RG Ecoprint**, dibangun menggunakan kerangka ke
    git clone [https://github.com/najwaa-a/rg-ecoprint-backend.git](https://github.com/najwaa-a/rg-ecoprint-backend.git)
    cd rg-ecoprint-backend
 
-```
-
 2. **Installdependencies:**
    ```bash
    npm install
 
-```
-
 3. **Jalankan server dalam mode *development*:**
    ```bash
    npm run start:dev
-
-```
 
 4. Server akan berjalan secara lokal di port `http://localhost:3000`.
 
