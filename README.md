@@ -57,6 +57,4 @@ Base URL: `http://localhost:3000/products`
 ## 👩‍💻 Identitas
 
 * **Najwa Areefa Ghaisani** (103122400028)
-* *Software Engineering Student at Telkom University Purwokerto*
-
 ```
