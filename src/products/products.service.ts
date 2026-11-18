@@ -8,11 +8,35 @@ export class ProductsService {
   private products: Product[] = [
     {
       id: 1,
-      name: 'Kain Ecoprint Shibori',
-      description: 'Kain katun ecoprint motif alam manual',
-      price: 150000,
+      name: 'Sepatu Ecoprint',
+      description: 'Sepatu dengan aksen motif daun alami.',
+      price: 275000,
+      category: 'Fashion',
+      stock: 8,
+    },
+    {
+      id: 2,
+      name: 'Kain Ecoprint Liora',
+      description: 'Kain bermotif alami dengan karakter unik.',
+      price: 185000,
       category: 'Kain',
-      stock: 10,
+      stock: 12,
+    },
+    {
+      id: 3,
+      name: 'Tas Motif Daun',
+      description: 'Tas kain dengan sentuhan motif botani.',
+      price: 145000,
+      category: 'Aksesori',
+      stock: 6,
+    },
+    {
+      id: 4,
+      name: 'Kipas Ecoprint',
+      description: 'Kipas dekoratif dengan pola tumbuhan.',
+      price: 65000,
+      category: 'Aksesori',
+      stock: 15,
     },
   ];
 
