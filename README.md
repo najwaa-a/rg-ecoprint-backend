@@ -25,14 +25,14 @@ Backend service untuk aplikasi **RG Ecoprint**, dibangun menggunakan kerangka ke
 ```
 
 2. **Installdependencies:**
-```bash
-npm install
+   ```bash
+   npm install
 
 ```
 
 3. **Jalankan server dalam mode *development*:**
-```bash
-npm run start:dev
+   ```bash
+   npm run start:dev
 
 ```
 
